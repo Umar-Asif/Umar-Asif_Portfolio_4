@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Umar Asif</title>
+    <link>https://Umar-Asif.github.io/Umar-Asif_Portfolio_4/</link>
+    <description>Recent content in Data Science Portfolio on Umar Asif</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Nov 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://Umar-Asif.github.io/Umar-Asif_Portfolio_4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Title: You Are What You Eat (Customer Segmentation)</title>
+      <link>https://Umar-Asif.github.io/Umar-Asif_Portfolio_4/post/project-2/</link>
+      <pubDate>Thu, 11 Nov 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://Umar-Asif.github.io/Umar-Asif_Portfolio_4/post/project-2/</guid>
+      <description>Used k-means clustering on grocery transaction data to split out customers into distinct &amp;ldquo;shopper types&amp;rdquo; that could be used to better understand customers over time, and to more accurately target customers with relevant content &amp;amp; promotions  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Created  dashboards in Microsoft Power Bi </title>
+      <link>https://Umar-Asif.github.io/Umar-Asif_Portfolio_4/post/project-6/</link>
+      <pubDate>Wed, 10 Nov 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://Umar-Asif.github.io/Umar-Asif_Portfolio_4/post/project-6/</guid>
+      <description>Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project Title: Targeting the Right Customers Using Machine Learning</title>
+      <link>https://Umar-Asif.github.io/Umar-Asif_Portfolio_4/post/project-4/</link>
+      <pubDate>Wed, 10 Nov 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://Umar-Asif.github.io/Umar-Asif_Portfolio_4/post/project-4/</guid>
+      <description>In this project we are helping the company reduce costs of the future campaigns by targeting only those customers who are more likely to sign up. We are using Machine Learning algorithm called Random Forests to find out which customers have high probability to sign up for the Delivery Club. We have correctly classified all customers into two groups with low and high probability of signing up. Now the company can contact only the second group and reduce marketing costs.</description>
+    </item>
+    
+    <item>
+      <title>Project Title : Grocery Store Customer Loyalty Points Prediction</title>
+      <link>https://Umar-Asif.github.io/Umar-Asif_Portfolio_4/post/project1/</link>
+      <pubDate>Sat, 09 Oct 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://Umar-Asif.github.io/Umar-Asif_Portfolio_4/post/project1/</guid>
+      <description>Created &amp;amp; applied a Genetic Algorithm in Python to predict loyalty points of about 500 customers with an accuracy rate of about 90 percent. This lead to estimated savings of up to 30% for the marketing task . This approach could be utilized across many industries as a way to find more optimal solutions.  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project Title: Marketing Optimization Using A/B Testing</title>
+      <link>https://Umar-Asif.github.io/Umar-Asif_Portfolio_4/post/project-5/</link>
+      <pubDate>Tue, 10 Aug 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://Umar-Asif.github.io/Umar-Asif_Portfolio_4/post/project-5/</guid>
+      <description>The aim of this project was to help the business decide if they should spend money on the expensive mailing. We conducted the A/B test to assess the signup rate of two groups using the data from the previous marketing campaign of the company. Our results from the Chi-Square test for independence showed that it’s not necessary to spend money on the expensive mailing and keep the simpler and cheaper one.</description>
+    </item>
+    
+    <item>
+      <title>Project Title: Answering Business Questions with SQL</title>
+      <link>https://Umar-Asif.github.io/Umar-Asif_Portfolio_4/post/project-3/</link>
+      <pubDate>Thu, 17 Jun 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://Umar-Asif.github.io/Umar-Asif_Portfolio_4/post/project-3/</guid>
+      <description>The aim of this project is to help the business answer questions about their total sales, best customers, and the total sales for each product area. We used SQL(Structured Query Language) as it has two advantages. Firstly, it introduced the concept of accessing many records with one single command. Secondly, it eliminates the need to specify how to reach a record, e.g. with or without an index. This information can be used to support strategic decisions or to report latest results to stakeholders.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://Umar-Asif.github.io/Umar-Asif_Portfolio_4/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Umar-Asif.github.io/Umar-Asif_Portfolio_4/contact/</guid>
+      <description>   Platform	URL      E-mail: oma1728@gmail.com   LinkedIn: https://www.linkedin.com/in/umar-asif-376475104/   GitHub: https://github.com/Umar-Asif   Mobile No: 0092-320-5493179    </description>
+    </item>
+    
+  </channel>
+</rss>
